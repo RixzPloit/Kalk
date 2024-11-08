@@ -19,13 +19,14 @@ def pangkat(x, y) :
 print("""
 
 ====>MAU PILIH APA<====
-  [==Yg Buat Elek==]
+  [==  By Rixz  ==]
  1] Penjumlahan
  2] Pengurangan
  3] Perkalian
  4] Pembagian
  5] Pangkat
  6] Tampilkan Semua
+ [•]===============[•]
  
 """ )
 
